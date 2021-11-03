@@ -1,7 +1,7 @@
 # zetto21
 안녕하세요 저는 제토입니다!
 
-저는 디스코드봇 봇을 만들도 있어요!!! 
+저는 디스코드 봇을 만들 수 있어요!!! 
 
 ## 특징
 
@@ -14,4 +14,4 @@
 
 ### 🔗링크
 
-[![samsunghappytree's github status](https://github-readme-stats.vercel.app/api?username=zetto21&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/zetto21)
+[![zetto21's github status](https://github-readme-stats.vercel.app/api?username=zetto21&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/zetto21)
