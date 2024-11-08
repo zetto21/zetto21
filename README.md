@@ -14,4 +14,5 @@
 
 ### 🔗링크
 
-[![samsunghappytree's github status](https://github-readme-stats.vercel.app/api?username=zetto21&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/zetto21)
+[![zetto tree's github status](https://github-readme-stats.vercel.app/api?username=zetto21&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/zetto21)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zetto21&layout=compact)](https://github.com/zetto21)
