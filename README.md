@@ -9,9 +9,9 @@
 
 > Python - ★★★☆☆
 
-> Golang - ★★☆☆☆
+> Golang - ★★★☆☆
 
-> JavaScript - ★★☆☆☆
+> JavaScript - ★★★☆☆
 
 
 ### 🔗링크
